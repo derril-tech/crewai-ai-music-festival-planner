@@ -16,8 +16,6 @@
 
 Built with **Next.js 16**, **React 19.2**, and **FastAPI**, the application showcases production-ready architecture, real-time AI interactions, and a polished user experience that adapts seamlessly across devices.
 
-**[🚀 Try it live](https://crewai-ai-music-festival-planner.vercel.app/)**
-
 ---
 
 ## ✨ Key Features
@@ -216,9 +214,6 @@ This project is part of a portfolio showcasing software engineering capabilities
 
 ---
 
-## 🌐 Live Application
-
-**[🎵 Try AI Music Festival Planner →](https://crewai-ai-music-festival-planner.vercel.app/)**
 
 Experience the full application with:
 - Real-time AI agent orchestration
@@ -231,7 +226,5 @@ Experience the full application with:
 <div align="center">
 
 **Built with attention to detail, optimized for performance, designed for users.**
-
-[🚀 Live Demo](https://crewai-ai-music-festival-planner.vercel.app/) • [📚 Documentation](./docs/) • [💻 GitHub](https://github.com/derril-tech/crewai-ai-music-festival-planner-)
 
 </div>
